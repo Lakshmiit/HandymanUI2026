@@ -1,6 +1,6 @@
 import React from "react";
 
-const Footer = () => {
+const Footer = () => {      
   return (
     <footer className="footer" style={{fontSize: "12px"}}>
      <strong> Powered by</strong> <span className="text-warning strong">Lakshmi Sai Service Provider</span>
